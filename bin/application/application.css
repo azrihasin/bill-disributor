@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-background-color: #1d1d1d;
+}
+.label {
+    -fx-font-size: 30pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-fill: white;
+    
+    -fx-padding: 40 40 40 40;
+   
+
+}
+
+.header{
+	-fx-fill: grey;
+	-fx-font-size: 60pt;
+	-fx-font-family:"Segoe UI Semibold";
+	
+	-fx-padding: 40 40 40 40;
+}
